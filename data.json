@@ -1,0 +1,61 @@
+{"employeesdata":[
+ {
+			"id": 28960370,  
+			"name": "Bob Jones",
+			"address": 
+			{ "no": 239,  
+				"street": "Sherbrooke O",  
+				"aptNo":1009,  
+				"city": "George Lallis"
+		 	},
+ }
+
+ {
+			"id": 28963371,  
+			"name": "Roy Robb",
+			"address": { "no": 23,  
+				"street": "Jackson Ave",  
+				"aptNo":109,  
+				"city": "Toronto"
+         			},
+ }
+
+ {
+			"id": 28960472,  
+			"name": "Betty Brown",
+			"address": { "no": 290,  
+				"street": "Ontarion Ave",  
+				"aptNo":409,  
+				"city": "Kingston"
+		 	},
+ }
+ {
+			"id": 28924373,  
+			"name": "Roze Green",
+			"address": { "no": 987,  
+				"street": "Albert St",  
+				"aptNo":0,  
+				"city": "Saskatoon"
+		 	},
+ }
+ {
+			"id": 28980374,  
+			"name": "Holly Arad",
+			"address": { "no": 292,  
+				"street": "Wini Ave",  
+				"aptNo":4009,  
+				"city": "Winnipeg"
+			 },
+ }
+ {
+			"id": 28965275,  
+			"name": "Mason Jones",
+			"address": { "no": 235,  
+				"street": "Altavista Ave",  
+				"aptNo":40,  
+				"city": "Halifax"
+	       		  }
+ }
+ 
+]}
+
